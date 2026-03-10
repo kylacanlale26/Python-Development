@@ -9,9 +9,9 @@ Python is the programming language this entire course runs on. We need version *
 
 ---
 
-## 🪟 Windows
+## WINDOWS
 
-1. Go to 👉 [https://www.python.org/downloads/](https://www.python.org/downloads/)
+1. Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Click the big yellow **"Download Python 3.x.x"** button
 3. Run the downloaded `.exe` file
 4. ⚠️ **CRITICAL — Before clicking anything else:**  
@@ -28,7 +28,7 @@ Python is the programming language this entire course runs on. We need version *
    └─────────────────────────────────────────┘
    ```
 
-   > ❌ If you skip this, Python will not work in the terminal and you will need to reinstall.
+   > If you skip this, Python will not work in the terminal and you will need to reinstall.
 
 5. Click **"Install Now"**
 6. Wait for the installation to finish
@@ -49,11 +49,11 @@ Python 3.12.x
 
 ---
 
-## 🍎 macOS
+## macOS
 
 macOS may have an older Python pre-installed. We install the latest version separately.
 
-1. Go to 👉 [https://www.python.org/downloads/](https://www.python.org/downloads/)
+1. Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Click **"Download Python 3.x.x"**
 3. Open the downloaded `.pkg` file
 4. Follow the installer — click **Continue** and **Agree** through all steps
@@ -76,7 +76,7 @@ Python 3.12.x
 
 ---
 
-## 🐧 Linux (Ubuntu / Debian)
+## Linux (Ubuntu / Debian)
 
 Most Linux systems already have Python. Check first:
 
@@ -104,7 +104,7 @@ Both should return version numbers with no errors.
 
 ---
 
-## ❌ Common Issues
+## COMMON ISSUES
 
 **"python is not recognized" (Windows)**  
 You missed the "Add to PATH" checkbox. Uninstall Python from Control Panel, then reinstall and make sure to check it.
