@@ -1,4 +1,4 @@
-# 03 — Install Git & Configure GitHub
+# 04 — Install Git & Configure GitHub
 ### Python Development | MCC BSIT 2526
 
 [Back to Setup Overview](./Setup.md)
