@@ -1,4 +1,4 @@
-# 08 — Python Virtual Environments
+# 03 — Python Virtual Environments
 ### Python Development | MCC BSIT 2526
 
 [Back to Setup Overview](./README.md)
