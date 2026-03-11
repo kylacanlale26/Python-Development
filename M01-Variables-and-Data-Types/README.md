@@ -8,7 +8,7 @@
 - input()
 
 ## What to Do
-1. Read M01_Lecture.ipynb
+1. Read [M01-Lecture.ipynb](./M01-Lecture.ipynb)
 2. Git clone the [M01-Exercise](./M01-Exercises.ipynb)
 3. Complete it locally in order for you to prepare for the activity
 4. Accept the activity assignment and push your work
